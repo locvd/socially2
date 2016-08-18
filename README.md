@@ -1,6 +1,6 @@
 # Angular2-Meteor-Base Tutorial
 
-## Usage
+## Usage  
 
 Since Meteor v1.4 you can use one command to create a working Angular2 app based on this boilerplate:
 
